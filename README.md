@@ -1,6 +1,9 @@
 # Mysql-project
 sql employee project
-SELECT * FROM org.worker;
+creating table and inserting values data given below.
+
+
+ (SELECT * FROM org.worker;
 INSERT INTO Worker 
 	(WORKER_ID, FIRST_NAME, LAST_NAME, SALARY, JOINING_DATE, DEPARTMENT) VALUES
 		(001, 'Monika', 'Arora', 100000, '14-02-20 09.00.00', 'HR'),
@@ -59,6 +62,6 @@ INSERT INTO Title
  
  SELECT * FROM org.worker;
  SELECT * FROM org.Bonus;
- SELECT * FROM org.Title;
+ SELECT * FROM org.Title;)
  
  
